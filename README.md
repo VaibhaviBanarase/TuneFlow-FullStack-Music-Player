@@ -122,7 +122,33 @@ npm run dev
 
 ## 📸 Screenshots
 
-Screenshots will be added soon.
+### 🏠 Home Page
+
+![Home Page](screenshots/homepage.png)
+
+---
+
+### ❤️ Favourite Songs
+
+![Favourite Songs](screenshots/favourites.png)
+
+---
+
+### 🔐 Login Page
+
+![Login](screenshots/login.png)
+
+---
+
+### 📝 Signup Page
+
+![Signup](screenshots/signup.png)
+
+---
+
+### 👤 Edit Profile
+
+![Edit Profile](screenshots/Edit.png)
 
 ---
 
